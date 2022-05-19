@@ -22,7 +22,7 @@ const Todo = () => {
           addTodo(data);
         }}
       >
-        Add
+        +
       </button>
     </div>
   );
