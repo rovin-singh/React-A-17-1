@@ -1,0 +1,25 @@
+.ul-class{
+  list-style: none;
+  background-color: whitesmoke;
+  width: 60%;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
+.ul-class>div{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap:20px;
+  background: white;
+  margin:10px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.ul-class>div>input{
+  font-size:50px;
+  color: red;
+  border: red;
+}
+
+
